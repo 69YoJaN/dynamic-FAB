@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic FAB</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="time">Timer</string>
+</resources>
